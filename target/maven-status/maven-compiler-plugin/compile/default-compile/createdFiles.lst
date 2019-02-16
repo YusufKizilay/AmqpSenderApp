@@ -1,0 +1,5 @@
+org/kizilay/yusuf/AmqpMessageSender/entity/Message.class
+org/kizilay/yusuf/AmqpMessageSender/AmqpMessageSenderApplication.class
+org/kizilay/yusuf/AmqpMessageSender/service/AmqpSender.class
+org/kizilay/yusuf/AmqpMessageSender/controller/MessageSender.class
+org/kizilay/yusuf/AmqpMessageSender/config/AppConfig.class

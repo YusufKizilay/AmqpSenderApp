@@ -1,0 +1,5 @@
+/home/yusuf/Development/Projects/AmqpMessageSender/src/main/java/org/kizilay/yusuf/AmqpMessageSender/service/AmqpSender.java
+/home/yusuf/Development/Projects/AmqpMessageSender/src/main/java/org/kizilay/yusuf/AmqpMessageSender/AmqpMessageSenderApplication.java
+/home/yusuf/Development/Projects/AmqpMessageSender/src/main/java/org/kizilay/yusuf/AmqpMessageSender/entity/Message.java
+/home/yusuf/Development/Projects/AmqpMessageSender/src/main/java/org/kizilay/yusuf/AmqpMessageSender/config/AppConfig.java
+/home/yusuf/Development/Projects/AmqpMessageSender/src/main/java/org/kizilay/yusuf/AmqpMessageSender/controller/MessageSender.java
